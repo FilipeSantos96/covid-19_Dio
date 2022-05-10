@@ -6,9 +6,34 @@ Progressive Web Application (PWA), utilizando ReactJS.
 
 Projeto criado no bootcamp Carrefour Web Developer da DIO, para mapear os dados de Covid-19 pelo mundo em tempo real.
 
-### API utilizada
+### Ferramentas utilizadas
 
-[Heroku API](https://coronavirus-19-api.herokuapp.com/countries)
+- JavaScript
+- ReactJS
+- Material-ui
+- Styled-components
+- Axios
+- [Heroku API](https://coronavirus-19-api.herokuapp.com/countries)
 
 
+
+## Passo a passo
+
+- Clone este repositório
+
+  ```
+  git clone https://github.com/FilipeSantos96/covid-19_dio.git
+  ```
+
+- Instale as dependências
+
+  ```
+  yarn add
+  ```
+
+- Execute o projeto
+
+  ```
+  yarn start
+  ```
 
